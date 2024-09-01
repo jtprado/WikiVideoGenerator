@@ -1,0 +1,7 @@
+llama-index
+llama-index-core
+langchain
+pydantic
+openai
+requests
+click

@@ -1,0 +1,6 @@
+/.env
+/config.py
+/qdrant_data
+/venv
+/wikipedia_tiktok_generator.log
+/__pycache__
